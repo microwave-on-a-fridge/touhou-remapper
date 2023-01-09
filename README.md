@@ -3,7 +3,7 @@ A remapper for Touhou games made with [AutoHotkey](https://www.autohotkey.com). 
 
 It supports all Touhou shmup control schemes (that uses arrow keys) including [POFV's multiplayer controls](https://en.touhouwiki.net/wiki/Phantasmagoria_of_Flower_View/Gameplay#Controls).
 
-![Preview image](https://raw.githubusercontent.com/microwave-on-a-fridge/touhou-remapper/main/preview.png)
+![Preview image](https://raw.githubusercontent.com/microwave-on-a-fridge/touhou-remapper/main/screenshot.png)
 
 ## Usage
 Grab an executable release from the [releases](https://github.com/microwave-on-a-fridge/touhou-remapper/releases/latest) tab. You can also download the AHK script (with the icons!) from the source.
